@@ -14,7 +14,7 @@ if MODULE_PATH not in sys.path:
 
 modules = [
     "week1", "week2", "week3", "week4", "week5",
-    "week6", "week7", "week10"  # Note: week10 = Week 8 missing data
+    "week6", "week10"  # Note: week10 = Week 8 missing data
 ]
 
 function_map = {}
